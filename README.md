@@ -20,7 +20,7 @@
 
 | Project Name | Description | Technologies |
 |---|---|---|
-| **[Pfs3](https://github.com/PhuongTran2212/Pfs3)** | A full-stack web application connecting job seekers and employers for flexible part-time and temporary work. | `HTML` |
+| **[Pbl3](https://github.com/PhuongTran2212/Pbl3)** | A full-stack web application connecting job seekers and employers for flexible part-time and temporary work. | `HTML` |
 | **[Dormitory_Management](https://github.com/PhuongTran2212/Dormitory_Management)** | A web-based application built with Java (JSP/Servlet), Maven, and MySQL to efficiently manage room information and facilities. | `Java`, `JSP`, `Servlet`, `Maven`, `MySQL` |
 | **[TRAINING_CENTER](https://github.com/PhuongTran2212/TRAINING_CENTER)** | A web-based training center management system built with ASP.NET Core to manage courses, students, and registrations. | `ASP.NET Core`, `Entity Framework Core` |
 | **[trekking-web](https://github.com/PhuongTran2212/trekking-web)** | A project for managing trekking routes, built with the Django framework. | `Python`, `Django` |
@@ -32,6 +32,5 @@
 
 <!-- Replace with your actual links -->
 - **Email:** `phuong33tht@gmail.com`
-- 
 ---
 Thanks for visiting! 😊
