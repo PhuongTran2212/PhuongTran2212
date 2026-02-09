@@ -21,7 +21,7 @@
 | Project Name | Description | Technologies |
 |---|---|---|
 | **[trekking-web](https://github.com/PhuongTran2212/trekking-web)** | A trekking route management website built with Django. | `Python`, `Django` |
-| **[PBL4_PILLCOUNTER](https://github.com/PhuongTran2212/PBL4_PILLCOUNTER)** | A system supporting pharmacists in counting pills on trays. | `Python`, `Computer Vision` |
+| **[PILL-COUNTER-PROJECT](https://github.com/PhuongTran2212/PILL-COUNTER-PROJECT)** | A system supporting pharmacists in counting pills on trays. | `Python`, `Computer Vision` |
 | **[TRAINING_CENTER](https://github.com/PhuongTran2212/TRAINING_CENTER)** | A web-based training center management system built with ASP.NET Core. | `ASP.NET Core`, `EF Core` |
 | **[JAPANESE_TEST_BANK](https://github.com/PhuongTran2212/JAPANESE_TEST_BANK)** | A management system for Japanese language practice test banks. | `Java` |
 | **[Dormitory_Management](https://github.com/PhuongTran2212/Dormitory_Management)** | A web application to efficiently manage room information and facilities. | `Java`, `JSP`, `MySQL` |
